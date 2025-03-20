@@ -1,0 +1,30 @@
+
+
+
+
+@media (max-width: 600px) {
+    .col-img{
+        display: none;
+    }
+}
+
+@media (max-width: 821px) {
+    .col-content, .col-img {
+        width: 100%;
+        text-align: center;
+    }
+    .col-img img {
+        width: 80%;
+        margin-top: 20px;
+    }
+    .container {
+        padding: 0 15px;
+    }
+    
+    .col-img{
+        display: none;
+    }
+    .col-img{
+        display: none;
+    }
+}
